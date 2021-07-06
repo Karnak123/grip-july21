@@ -1,0 +1,13 @@
+* {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+.carousel {
+  margin-top: 2em;
+  margin-left: 3em;
+  margin-right: 3em;
+}
